@@ -1,0 +1,11 @@
+1;Saltos del Petrohue;45000
+2;Volcan Osorno;60000
+3;Tour Frutillar;19000
+4;Cena Puerto Varas;24000
+5;Cruce Andino;115000
+6;Tour Puerto Octay;17000
+7;Parque Nacional Alerce Andino;23000
+8;Tour Cochamo;41000
+9;Tour Ensenada;29000
+10;Rafting Rio Petrohue;50000
+11;Paseo Catamaran en Lago Todos los Santos;40000
