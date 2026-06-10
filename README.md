@@ -3,6 +3,20 @@ Proyecto LlanquihueTourApp
 
 Aplicacion de consola en Java para leer informacion de tours desde un archivo de texto y mostrarla en pantalla.
 
+Estructura de carpeta:
+
+LlanquihueTourApp
+|_ src
+    |_ data
+       |_ GestorDatos
+    |_ model
+       |_ Tour
+    |_ ui
+       |_ Main
+|_ resources
+    |_ archivo.txt
+
+
 Este proyecto carga datos de tours desde un archivo `archivo.txt`, los convierte en objetos `Tour` y los guarda en una lista para luego mostrarlos en consola.
 Cada linea del archivo debe tener este formato:
 
