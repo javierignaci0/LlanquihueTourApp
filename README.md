@@ -11,7 +11,7 @@ LlanquihueTourApp
        |_ GestorDatos
     |_ model
        |_ Tour
-    |_ ui
+    |_ app
        |_ Main
 |_ resources
     |_ archivo.txt
